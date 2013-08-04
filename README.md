@@ -36,6 +36,8 @@ How to get started
 
 export PATH=/usr/local/texlive/2013/bin/x86_64-linux:$PATH;
 
+(For i386 replace the x86\_64-linux with i386-linux)
+
 MANPATH=/usr/local/texlive/2013/texmf/doc/man:$MANPATH; export MANPATH
 
 INFOPATH=/usr/local/texlive/2013/texmf/doc/<info:$INFOPATH>; export INFOPATH
@@ -43,6 +45,8 @@ INFOPATH=/usr/local/texlive/2013/texmf/doc/<info:$INFOPATH>; export INFOPATH
 6. in file "/etc/manpath.config" add
 
  MANPATH\_MAP /usr/local/texlive/2013/bin/x86\_64-linux /usr/local/texlive/2013/texmf/doc/man
+
+(For i386 replace the x86\_64-linux with i386-linux)
 
 7. cp "./fonts" to "/usr/share/"
 
@@ -58,6 +62,10 @@ INFOPATH=/usr/local/texlive/2013/texmf/doc/<info:$INFOPATH>; export INFOPATH
 
 cp "./fonts/ctex-xecjk-winfonts.def" to "/usr/local/texlive/2013/texmf-dist/tex/latex/ctex/fontset"
 
-### install auctex ###
+### install or just make ###
 
+cd  ~/.emacs.d/auctex-11.87 && make && make install
 
+cd ~/.emacs.d/mylisps/cedet-1.1 && make
+
+cd ~/.emacs.d/predictive && make
