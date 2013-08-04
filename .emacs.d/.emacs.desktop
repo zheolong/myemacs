@@ -1,0 +1,722 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sun Aug  4 12:26:08 2013
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("‘¹Ì‘¶¨" "float" "Extra" "‘Î»‘ÖÃ" "error" "auto-full" "parse" "auto-save" "error" "errir" "error" "textbf" "error" "‘¹Ì‘¶¨‘µÄ‘Í»‘±ä" "error" "eoor"))
+(setq regexp-search-ring '("aspa" "??*"))
+(setq register-alist nil)
+(setq file-name-history '("/home/samba_shared_dir/myproject/project04/index.html" "~/Desktop/latex_thesis/data/chapter1-intro.tex" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/sample-master.p" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/sample-master.p" "/home/samba_shared_dir/BUAAthesis/sample-master.pdf" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/.emacs.d/mylisps/yasnippet/snippets/latex-mode" "~/Desktop/latex_thesis/data/chapter1-intro.tex" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/data/chapter1-intro.tex" "~/Desktop/latex_thesis/sample-master.tex" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/buaathesis.cls" "~/Desktop/latex_thesis/sample-master.tex" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/Desktop/latex_thesis/sample-master.tex" "~/Desktop/latex_thesis/data/master/back3-aboutauthor.tex" "~/Desktop/latex_thesis/data/chapter6-implement.tex" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/Desktop/latex_thesis/sample-master.tex" "~/Desktop/latex_thesis/data/chapter4-basic.tex" "~/Desktop/latex_thesis/sample-master.pdf" "~/Desktop/latex_thesis/sample-master.tex" "~/Desktop/latex_thesis/sample-master.pdf" "/root/.emacs.d/org-mode"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/root/software/bootstrap-examples-master/index.html"
+  "index.html<2>"
+  'html-mode
+  '(yas/minor-mode zencoding-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/demo.html"
+  "demo.html"
+  'html-mode
+  '(yas/minor-mode zencoding-mode TeX-PDF-mode)
+  457
+  '(1328 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/myproject/project04/index.html"
+  "index.html"
+  'html-mode
+  '(yas/minor-mode zencoding-mode TeX-PDF-mode)
+  1714
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter1-intro.tex"
+  "chapter1-intro.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1192
+  '(24 nil)
+  nil
+  '(preview (20989 8 0 0) (24 36 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-285.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-285.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (64 76 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-284.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-284.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (665 682 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-283.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-283.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (905 927 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-282.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-282.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1194 1216 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-281.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-281.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1218 1234 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-280.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-280.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1537 1537 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-279.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-279.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1537 1537 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-278.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-278.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1539 1556 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-277.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-277.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1842 1864 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-276.png" png 79 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-276.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3616 3634 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-275.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-275.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4586 4602 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-274.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-274.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5839 5855 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-273.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-273.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/sample-master.tex"
+  "sample-master.tex<4>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  385
+  '(460 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/sample-master.pdf"
+  "sample-master.pdf"
+  'doc-view-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . no-conversion)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/sample-master.tex"
+  "sample-master.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode view-mode)
+  614
+  '(322 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/sample-master.pdf"
+  "sample-master.pdf<2>"
+  'doc-view-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(1 nil)
+  t
+  nil
+  '((buffer-file-coding-system . no-conversion)))
+
+(desktop-create-buffer 206
+  "/root/AQM/rem/README.md"
+  "README.md"
+  'markdown-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1833
+  '(1724 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter4-basic.tex"
+  "chapter4-basic.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1045
+  '(14992 nil)
+  nil
+  '(preview (20975 36985 0 0) (23 48 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-253.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-253.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (131 145 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-252.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-252.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (466 494 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-251.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-251.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (541 566 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-250.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-250.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (683 1044 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-249.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-249.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1058 1067 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-248.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-248.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1068 1077 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-247.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-247.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1087 1090 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-246.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-246.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1112 1115 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-245.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-245.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1132 1138 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-244.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-244.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1143 1176 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-243.png" png 67 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-243.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1185 1188 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-242.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-242.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1207 1212 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-241.png" png 68 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-241.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1226 1229 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-240.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-240.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1246 1249 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-239.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-239.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1266 1269 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-238.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-238.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1568 1762 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-237.png" png 100 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-237.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1764 1785 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-236.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-236.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1969 1987 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-235.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-235.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2397 2524 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-234.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-234.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2538 2544 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-233.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-233.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2557 2563 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-232.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-232.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2588 2595 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-231.png" png 68 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-231.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2608 2615 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-230.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-230.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2628 2635 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-229.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-229.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2783 2909 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-228.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-228.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2922 3048 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-227.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-227.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3130 3301 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-226.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-226.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3316 3330 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-225.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-225.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3354 3360 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-224.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-224.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3375 3383 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-223.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-223.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3386 3393 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-222.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-222.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3404 3407 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-221.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-221.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3414 3428 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-220.png" png 80 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-220.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3429 3435 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-219.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-219.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3438 3441 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-218.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-218.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3493 3499 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-217.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-217.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3515 3521 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-216.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-216.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3522 3530 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-215.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-215.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3548 3554 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-214.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-214.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3560 3587 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-213.png" png 58 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-213.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3604 3610 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-212.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-212.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3674 3681 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-211.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-211.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3712 3893 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-210.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-210.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3974 4212 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-209.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-209.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4226 4254 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-208.png" png 64 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-208.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4263 4291 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-207.png" png 64 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-207.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4422 4431 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-206.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-206.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4436 4445 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-205.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-205.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4459 4477 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-204.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-204.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4718 4725 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-203.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-203.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4734 4741 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-202.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-202.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4746 4758 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-201.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-201.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4784 4787 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-200.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-200.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4826 4932 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-199.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-199.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4936 4939 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-198.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-198.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4945 4961 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-197.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-197.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (4979 4991 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-196.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-196.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5169 5356 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-195.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-195.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5368 5380 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-194.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-194.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5382 5385 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-193.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-193.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5387 5403 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-192.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-192.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5440 5448 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-191.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-191.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5473 5489 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-190.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-190.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5532 5568 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-189.png" png 70 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-189.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5700 5824 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-188.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-188.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5838 5865 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-187.png" png 70 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-187.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5872 5884 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-186.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-186.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5904 5911 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-185.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-185.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5919 5922 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-184.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-184.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5923 5928 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-183.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-183.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5944 5961 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-182.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-182.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5972 5975 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-181.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-181.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (5978 5998 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-180.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-180.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (6384 6435 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-179.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-179.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (6467 6518 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-178.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-178.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (6552 6603 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-177.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-177.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (6871 7009 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-176.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-176.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7023 7031 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-175.png" png 70 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-175.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7042 7050 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-174.png" png 70 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-174.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7061 7064 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-173.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-173.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7073 7080 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-172.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-172.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7094 7101 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-171.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-171.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7115 7123 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-170.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-170.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7137 7145 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-169.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-169.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7158 7171 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-168.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-168.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7179 7182 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-167.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-167.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7206 7213 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-166.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-166.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7214 7221 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-165.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-165.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7246 7253 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-164.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-164.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7254 7261 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-163.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-163.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7263 7270 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-162.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-162.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7342 7345 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-161.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-161.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7363 7486 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-160.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-160.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7500 7509 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-159.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-159.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7518 7527 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-158.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-158.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7536 7548 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-157.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-157.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7559 7565 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-156.png" png 93 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-156.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (7672 7784 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-155.png" png 96 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-155.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (8307 8314 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-154.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-154.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (8462 8469 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-153.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-153.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (8809 8812 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-152.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-152.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (8854 8857 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-151.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-151.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9259 9290 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-150.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-150.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9465 9494 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-149.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-149.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9496 9522 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-148.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-148.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9526 9557 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-147.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-147.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9593 9734 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-146.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-146.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9748 9755 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-145.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-145.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9768 9775 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-144.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-144.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9785 9791 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-143.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-143.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9813 9824 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-142.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-142.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9847 9853 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-141.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-141.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9865 9872 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-140.png" png 68 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-140.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9873 9880 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-139.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-139.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9881 9888 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-138.png" png 77 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-138.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (9986 10247 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-137.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-137.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10261 10264 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-136.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-136.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10272 10278 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-135.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-135.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10279 10287 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-134.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-134.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10293 10296 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-133.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-133.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10299 10304 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-132.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-132.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10318 10324 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-131.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-131.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10325 10333 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-130.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-130.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10339 10342 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-129.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-129.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10345 10350 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-128.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-128.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10493 10605 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-127.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-127.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (10666 11116 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-126.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-126.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (11141 11205 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-125.png" png 58 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-125.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (11206 11274 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-124.png" png 62 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-124.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (11276 11343 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-123.png" png 61 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-123.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (11352 12161 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-122.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-122.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12221 12600 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-121.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-121.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12614 12624 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-120.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-120.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12625 12635 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-119.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-119.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12636 12646 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-118.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-118.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12700 12740 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-117.png" png 65 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-117.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12819 12853 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-116.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-116.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12861 12895 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-115.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-115.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12902 12912 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-114.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-114.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (12932 13126 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-113.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-113.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13163 13281 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-112.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-112.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13295 13399 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-111.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-111.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13415 13422 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-110.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-110.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13423 13430 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-109.png" png 60 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-109.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13431 13443 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-108.png" png 68 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-108.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13489 13499 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-107.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-107.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13507 13513 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-106.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-106.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13530 13766 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-105.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-105.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13859 13862 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-104.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-104.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13874 13877 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-103.png" png 91 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-103.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13881 13889 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-102.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-102.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13907 13924 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-101.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-101.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (13943 13946 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-100.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-100.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14045 14048 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-99.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-99.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14083 14090 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-98.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-98.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14099 14106 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-97.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-97.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14110 14122 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-96.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-96.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14138 14145 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-95.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-95.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14167 14178 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-94.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-94.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14179 14186 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-93.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-93.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14265 14272 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-92.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-92.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14292 14597 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-91.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-91.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14613 14620 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-90.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-90.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14657 14664 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-89.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-89.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14674 14816 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-88.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-88.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14830 14838 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-87.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-87.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14839 14847 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-86.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-86.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14868 14901 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-85.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-85.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14902 14935 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-84.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-84.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14938 14971 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-83.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-83.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (14973 15186 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-82.png" png 100 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-82.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15284 15290 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-81.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-81.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15481 15484 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-80.png" png 92 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-80.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15630 15646 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-79.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-79.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15662 15669 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-78.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-78.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15685 15688 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-77.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-77.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15695 15716 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-76.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-76.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15730 15737 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-75.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-75.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15754 15775 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-74.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-74.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15796 15804 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-73.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-73.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15849 15872 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-72.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-72.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15894 15902 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-71.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-71.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15925 15932 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-70.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-70.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15933 15940 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-69.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-69.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (15984 16193 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-68.png" png 100 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-68.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16214 16272 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-67.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-67.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16308 16330 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-66.png" png 78 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-66.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16331 16334 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-65.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-65.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16436 16446 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-64.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-64.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16484 16517 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-63.png" png 61 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-63.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16536 16560 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-62.png" png 65 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-62.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16609 16616 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-61.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-61.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16684 16691 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-60.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-60.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16741 16756 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-59.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-59.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (16793 17356 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-58.png" png 97 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-58.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (17362 17574 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-57.png" png 100 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-57.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (17599 17606 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-56.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-56.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (17631 17869 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-55.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-55.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (17912 18183 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-54.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-54.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18421 18479 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-53.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-53.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18510 18555 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-52.png" png 98 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-52.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18577 18587 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-51.png" png 71 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-51.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18589 18595 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-50.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-50.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18609 18619 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-49.png" png 72 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-49.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18621 18627 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-48.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-48.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18658 18665 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-47.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-47.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18704 18707 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-46.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-46.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18713 18719 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-45.png" png 73 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-45.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18727 18737 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-44.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-44.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (18785 19072 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-43.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-43.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (19095 19526 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-42.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-42.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (19551 19561 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-41.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-41.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (19562 19572 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-40.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-40.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (19579 19954 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-39.png" png 99 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-39.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (20101 20115 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-38.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-38.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t) (TeX-master . "sample-master")))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/mylisps/yasnippet/snippets/latex-mode/eq.yasnippet"
+  "eq.yasnippet"
+  'snippet-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  289
+  '(289 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/mylisps/yasnippet/snippets/latex-mode/frac.yasnippet"
+  "frac.yasnippet"
+  'snippet-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/mylisps/yasnippet/snippets/latex-mode/fig.yasnippet"
+  "fig.yasnippet"
+  'snippet-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "latex-mode"
+  'dired-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1602
+  '(nil nil)
+  t
+  '("/root/.emacs.d/mylisps/yasnippet/snippets/latex-mode/")
+  nil)
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/buaathesis.cls"
+  "buaathesis.cls"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  11176
+  '(11176 t)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/master/back3-aboutauthor.tex"
+  "back3-aboutauthor.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  170
+  '(71 nil)
+  nil
+  '(preview (20971 55494 0 0) (23 37 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-5.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-5.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter6-implement.tex"
+  "chapter6-implement.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  23
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 40 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-14.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-14.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (60 74 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-13.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-13.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (107 124 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-12.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-12.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (126 145 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-11.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-11.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (147 161 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-10.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-10.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter5-usage.tex"
+  "chapter5-usage.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  752
+  '(1943 nil)
+  nil
+  '(preview (20974 62188 0 0) (23 57 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-37.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-37.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (87 112 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-36.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-36.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (127 505 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-35.png" png 52 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-35.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (809 839 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-34.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-34.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (840 857 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-33.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-33.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1025 1042 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-32.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-32.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1251 1276 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-31.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-31.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1277 1292 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-30.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-30.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1557 1575 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-29.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-29.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1677 1692 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-28.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-28.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1932 1959 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-27.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-27.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1960 1975 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-26.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-26.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2131 2148 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-25.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-25.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2503 2535 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-24.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-24.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2538 2571 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-23.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-23.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2572 2587 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-22.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-22.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2611 2630 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-21.png" png 87 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-21.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2631 2648 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-20.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-20.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2649 2663 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-19.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-19.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2664 2680 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-18.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-18.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2774 2810 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-17.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-17.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2811 2831 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-16.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-16.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2855 2873 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-15.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-15.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/root/.emacs"
+  ".emacs"
+  'emacs-lisp-mode
+  '(yas/minor-mode auto-complete-mode TeX-PDF-mode)
+  1864
+  '(1201 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/master/back2-thanks.tex"
+  "back2-thanks.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  36
+  '(36 nil)
+  nil
+  '(preview (20971 55494 0 0) (23 35 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-6.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-6.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/master/back1-achievement.tex"
+  "back1-achievement.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 51 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-7.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-7.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/reference.tex"
+  "reference.tex"
+  'plain-tex-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter4-basic.tex"
+  "chapter4-basic.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  3106
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/BUAAthesis/sample-master.tex"
+  "sample-master.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  82
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/sample-master.tex"
+  "sample-master.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/auctex-11.87/preview/circ.tex"
+  "circ.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  4820
+  '(4229 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  nil
+  "BUAAthesis"
+  'dired-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  922
+  '(nil nil)
+  t
+  '("/home/samba_shared_dir/BUAAthesis/")
+  nil)
+
+(desktop-create-buffer 206
+  "/root/RMAIL"
+  "RMAIL"
+  'rmail-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/Downloads/tex-ref.tex"
+  "tex-ref.tex"
+  'fundamental-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/auctex-11.87/preview/_region_.tex"
+  "_region_.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  13006
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . iso-latin-1-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  79724
+  '(nil nil)
+  t
+  '("/usr/local/share/info/auctex" "Completion" ((history ("/usr/local/share/info/auctex" "Mathematics" 78352) ("/usr/local/share/info/auctex" "Top" 3972) ("/usr/local/share/info/preview-latex" "Keys and lisp" 13812) ("/usr/local/share/info/preview-latex" "Top" 1740) ("/usr/local/share/info/preview-latex" "Keys and lisp" 15632) ("/usr/local/share/info/preview-latex" "Top" 1741) ("/usr/local/share/info/preview-latex" "Top" 1605) ("/usr/local/share/info/auctex" "Editing Facilities" 55710) ("/usr/local/share/info/auctex" "Top" 1034) ("/usr/local/share/info/auctex" "Concept Index" 25600) ("/usr/local/share/info/auctex" "Adding Environments" 194700) ("/usr/local/share/info/auctex" "Itemize-like" 75752) ("/usr/local/share/info/auctex" "Concept Index" 25591) ("/usr/local/share/info/auctex" "Hacking the Parser" 197457) ("/usr/local/share/info/auctex" "Adding Other" 196898) ("/usr/local/share/info/auctex" "Adding Environments" 193072) ("/usr/local/share/info/auctex" "Itemize-like" 75752) ("/usr/local/share/info/auctex" "Top" 1034) ("/usr/local/share/info/auctex" "Top" 2570))))
+  '((tab-width . 8) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/_region_.tex"
+  "_region_.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1449
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/master/denotation.tex"
+  "denotation.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter1-intro.tex"
+  "chapter1-intro.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter2-config.tex"
+  "chapter2-config.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter3-download.tex"
+  "chapter3-download.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter4-basic.tex"
+  "chapter4-basic.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (TeX-master . "sample-master")))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter5-usage.tex"
+  "chapter5-usage.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/chapter6-implement.tex"
+  "chapter6-implement.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/appendix1-faq.tex"
+  "appendix1-faq.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/appendix2-contactus.tex"
+  "appendix2-contactus.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/master/back1-achievement.tex"
+  "back1-achievement.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/master/back2-thanks.tex"
+  "back2-thanks.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/latex_thesis/data/master/back3-aboutauthor.tex"
+  "back3-aboutauthor.tex<2>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  8
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/master/denotation.tex"
+  "denotation.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 41 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-294.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-294.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (313 323 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-293.png" png 93 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-293.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (362 368 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-292.png" png 66 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-292.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (408 411 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-291.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-291.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (422 425 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-290.png" png 91 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-290.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (436 439 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-289.png" png 91 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-289.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (450 453 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-288.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-288.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (464 467 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-287.png" png 94 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-287.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (478 481 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-286.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-286.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter2-config.tex"
+  "chapter2-config.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 39 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-272.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-272.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (62 79 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-271.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-271.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (586 605 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-270.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-270.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1590 1596 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-269.png" png 90 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-269.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (1776 1793 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-268.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-268.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2381 2400 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-267.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-267.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3026 3040 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-266.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-266.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3373 3406 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-265.png" png 77 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-265.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (3497 3554 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-264.png" png 74 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-264.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/chapter3-download.tex"
+  "chapter3-download.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 45 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-263.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-263.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (67 79 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-262.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-262.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (225 245 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-261.png" png 87 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-261.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (247 264 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-260.png" png 87 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-260.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (400 424 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-259.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-259.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (682 708 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-258.png" png 85 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-258.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (910 930 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-257.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-257.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (932 949 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-256.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-256.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (951 970 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-255.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-255.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil) (2564 2578 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-254.png" png 86 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-254.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/appendix1-faq.tex"
+  "appendix1-faq.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 37 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-9.png" png 89 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-9.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/appendix2-contactus.tex"
+  "appendix2-contactus.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  '(preview (20971 55494 0 0) (23 37 ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-8.png" png 95 nil) ("/root/Desktop/latex_thesis/_region_.prv/tmp120665S8/pr1-8.png" "/root/Desktop/latex_thesis/_region_.prv/tmp120665S8" "/root/Desktop/latex_thesis/_region_.prv") nil))
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/data/_region_.tex"
+  "_region_.tex<4>"
+  'plain-tex-mode
+  '(yas/minor-mode TeX-PDF-mode)
+  190
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/sample-master.log"
+  "sample-master.log"
+  'fundamental-mode
+  '(auto-fill-mode yas/minor-mode reftex-mode TeX-PDF-mode linum-mode)
+  72589
+  '(72589 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/_region_.tex"
+  "_region_.tex<5>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1014
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/master/denotation.tex"
+  "denotation.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter1-intro.tex"
+  "chapter1-intro.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter2-config.tex"
+  "chapter2-config.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter3-download.tex"
+  "chapter3-download.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter5-usage.tex"
+  "chapter5-usage.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/chapter6-implement.tex"
+  "chapter6-implement.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/appendix1-faq.tex"
+  "appendix1-faq.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/appendix2-contactus.tex"
+  "appendix2-contactus.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/master/back1-achievement.tex"
+  "back1-achievement.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/master/back2-thanks.tex"
+  "back2-thanks.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/samba_shared_dir/BUAAthesis/data/master/back3-aboutauthor.tex"
+  "back3-aboutauthor.tex<3>"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/Desktop/latex_thesis/_region_.tex"
+  "_region_.tex"
+  'latex-mode
+  '(auto-fill-mode yas/minor-mode auto-complete-mode reftex-mode cdlatex-mode TeX-PDF-mode linum-mode)
+  1309
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+

@@ -1,0 +1,268 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=xelatex 2013.7.2)  12 JUL 2013 20:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**\input circ.tex
+(./circ.tex (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2013/05/16 v3.9f The Babel package
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2008/06/01 v2.6m German support from the babel system
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2013/05/16 v3.9f Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/babel/xebabel.def))
+\l@austrian = a dialect from \language\l@german 
+Package babel Info: Making " an active character on input line 102.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2008/03/30 v1.1d Input encoding file
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/preview/preview.sty
+Package: preview 2010/02/14 11.87 (AUCTeX/preview-latex)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/preview/prshowlabels.def))
+\chaos=\box26
+\tdim=\dimen104
+\fives=\count89
+\ones=\count90
+\raster=\box27
+
+No file circ.aux.
+\openout1 = `circ.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 39.
+Invalid UTF-8 byte or sequence at line 44 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 45.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Missing character: There is no � in font ecbx1440!
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 52.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 52.
+Invalid UTF-8 byte or sequence at line 53 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 55 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 55 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 55 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 55 replaced by U+FFFD.
+
+Underfull \hbox (badness 2503) in paragraph at lines 53--55
+\T1/cmr/m/n/10 heit, ent-we-der durch-ge-hend stei-gend oder
+ []
+
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 61 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 65 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 66 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 75 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 76 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 76 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `lgi' on page 1 undefined on input line 77.
+
+Invalid UTF-8 byte or sequence at line 85 replaced by U+FFFD.
+
+LaTeX Warning: Reference `lgii' on page 1 undefined on input line 85.
+
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 89 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 100 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 101 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 106 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 107 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 109 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `linalg' on page 1 undefined on input line 110.
+
+Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `linc' on page 1 undefined on input line 112.
+
+
+LaTeX Warning: Reference `linpict' on page 1 undefined on input line 114.
+
+\x=\count91
+\y=\count92
+\d=\count93
+\dx=\count94
+\dy=\count95
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 230 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 231 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+[1
+
+
+] [2]
+Invalid UTF-8 byte or sequence at line 239 replaced by U+FFFD.
+
+
+LaTeX Warning: Reference `ggg' on page 3 undefined on input line 239.
+
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `ggg' on page 3 undefined on input line 244.
+
+
+LaTeX Warning: Reference `hhh' on page 3 undefined on input line 244.
+
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 261 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 262 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 262 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 263 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 264 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 264 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `alg' on page 3 undefined on input line 267.
+
+
+LaTeX Warning: Reference `prog' on page 3 undefined on input line 268.
+
+\x=\count96
+\y=\count97
+\q=\count98
+Invalid UTF-8 byte or sequence at line 364 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 373 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `phyp' on page 3 undefined on input line 373.
+
+[3]
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 383 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 387 replaced by U+FFFD.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+Missing character: There is no � in font ecrm1000!
+
+
+LaTeX Warning: Reference `halg' on page 4 undefined on input line 394.
+
+Invalid UTF-8 byte or sequence at line 395 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+\x=\count99
+\y=\count100
+\q=\count101
+\r=\count102
+[4] [5
+
+] (./circ.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1061 strings out of 493938
+ 12552 string characters out of 6148858
+ 100133 words of memory out of 5000000
+ 4401 multiletter control sequences out of 15000+600000
+ 12381 words of font info for 32 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 24i,7n,23p,214b,358s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on circ.pdf (5 pages).

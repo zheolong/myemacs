@@ -1,0 +1,1848 @@
+This is XeTeX, Version 3.1415926-2.5-0.9999.3 (TeX Live 2013) (format=prv_circ 2013.7.12)  12 JUL 2013 20:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**&prv_circ _region_.tex
+(./_region_.tex
+LaTeX2e <2011/06/27>
+Babel <3.9f> and hyphenation patterns for 78 languages loaded.
+CUSTOMISED FORMAT. Preloaded files:
+        .
+ article.cls    2007/10/19 v1.4h Standard LaTeX document class
+  size10.clo    2007/10/19 v1.4h Standard LaTeX file (size option)
+   babel.sty    2013/05/16 v3.9f The Babel package
+ germanb.ldf    2008/06/01 v2.6m German support from the babel system
+ fontenc.sty
+   t1enc.def    2005/09/27 v1.99g Standard LaTeX file
+inputenc.sty    2008/03/30 v1.1d Input encoding file
+  latin1.def    2008/03/30 v1.1d Input encoding file
+ preview.sty    2010/02/14 11.87 (AUCTeX/preview-latex)
+prtightpage.def
+prauctex.def
+prauctex.cfg
+prshowlabels.def
+  t1cmtt.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+  t1cmss.fd    1999/05/25 v2.5h Standard LaTeX font definitions
+        .
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
+LaTeX Font Info:    ... okay on input line 36.
+Preview: Fontsize 10pt
+Preview: PDFoutput 1
+ !name(circ.tex) !offset(-3) 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 42.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 42.
+
+! Preview: Snippet 1 started.
+<-><->
+      
+l.44 \begin{abstract}
+                     
+Not a real error.
+
+Preview: Tightpage -32891 -32891 32891 32891
+! Preview: Snippet 1 ended.(651269+183455x14483456).
+<-><->
+      
+l.44 \begin{abstract}
+                     
+Not a real error.
+
+[1]
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 51 replaced by U+FFFD.
+
+! Preview: Snippet 2 started.
+<-><->
+      
+l.51 \section
+             {Einf�hrung}
+Not a real error.
+
+Missing character: There is no � in font ecbx1440!
+! Preview: Snippet 2 ended.(651269+183455x14483456).
+<-><->
+      
+l.51 \section{Einf�hrung}
+                           
+Not a real error.
+
+[2
+
+]
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 53 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 3 started.
+<-><->
+      
+l.55 \item Sie lassen sich als Funktion $
+                                         y = f(x)$ darstellen.
+Not a real error.
+
+! Preview: Snippet 3 ended.(491520+163840x2494310).
+<-><->
+      
+l.55 \item Sie lassen sich als Funktion $y = f(x)$
+                                                   darstellen.
+Not a real error.
+
+[3]
+Invalid UTF-8 byte or sequence at line 56 replaced by U+FFFD.
+
+! Preview: Snippet 4 started.
+<-><->
+      
+l.56 \item $
+            y$ ist im betrachteten Bereich monoton, das hei�t, entweder
+Not a real error.
+
+! Preview: Snippet 4 ended.(282168+127431x344824).
+<-><->
+      
+l.56 \item $y$
+               ist im betrachteten Bereich monoton, das hei�t, entweder
+Not a real error.
+
+[4]
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 58 replaced by U+FFFD.
+
+! Preview: Snippet 5 started.
+<-><->
+      
+l.58 \item Wenn $
+                 x$ sich um $1$ �ndert, so �ndert sich $y$ betragsm��ig
+
+Not a real error.
+
+! Preview: Snippet 5 ended.(282168+0x374556).
+<-><->
+      
+l.58 \item Wenn $x$
+                    sich um $1$ �ndert, so �ndert sich $y$ betragsm��ig
+
+Not a real error.
+
+[5]
+! Preview: Snippet 6 started.
+<-><->
+      
+l.58 \item Wenn $x$ sich um $
+                             1$ �ndert, so �ndert sich $y$ betragsm��ig
+
+Not a real error.
+
+! Preview: Snippet 6 ended.(422343+0x327681).
+<-><->
+      
+l.58 \item Wenn $x$ sich um $1$
+                                �ndert, so �ndert sich $y$ betragsm��ig
+
+Not a real error.
+
+[6]
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 7 started.
+<-><->
+      
+l.58 ...$ sich um $1$ �ndert, so �ndert sich $
+                                                  y$ betragsm��ig
+Not a real error.
+
+! Preview: Snippet 7 ended.(282168+127431x344824).
+<-><->
+      
+l.58 ...sich um $1$ �ndert, so �ndert sich $y$
+                                                   betragsm��ig
+Not a real error.
+
+[7]
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 59 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 8 started.
+<-><->
+      
+l.59   h�chstens um $
+                       1$
+Not a real error.
+
+! Preview: Snippet 8 ended.(422343+0x327681).
+<-><->
+      
+l.59   h�chstens um $1$
+                         
+Not a real error.
+
+[8]
+! Preview: Snippet 9 started.
+<-><->
+      
+l.60   ($
+         \left|\frac{\partial y}{\partial x}\right| \leq 1$).
+Not a real error.
+
+! Preview: Snippet 9 ended.(753670+425990x2400954).
+<-><->
+      
+l.60 ...rac{\partial y}{\partial x}\right| \leq 1$
+                                                  ).
+Not a real error.
+
+[9]
+! Preview: Snippet 10 started.
+<-><->
+      
+l.63 \section
+             {Die gerade Linie}
+Not a real error.
+
+! Preview: Snippet 10 ended.(651269+183455x14483456).
+<-><->
+      
+l.63 \section{Die gerade Linie}
+                               
+Not a real error.
+
+[10
+
+]
+Invalid UTF-8 byte or sequence at line 64 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 11 started.
+<-><->
+      
+l.65 die durch den Punkt $
+                          0 \choose 0$ geht. Alle anderen Linien lassen
+Not a real error.
+
+! Preview: Snippet 11 ended.(586443+229380x861985).
+<-><->
+      
+l.65 die durch den Punkt $0 \choose 0$
+                                       geht. Alle anderen Linien lassen
+Not a real error.
+
+[11]
+! Preview: Snippet 12 started.
+<-><->
+      
+l.66 sich durch Vertauschen von $
+                                 x$ und~$y$ sowie Vorzeichenwechsel
+Not a real error.
+
+! Preview: Snippet 12 ended.(282168+0x374556).
+<-><->
+      
+l.66 sich durch Vertauschen von $x$
+                                    und~$y$ sowie Vorzeichenwechsel
+Not a real error.
+
+[12]
+! Preview: Snippet 13 started.
+<-><->
+      
+l.66 sich durch Vertauschen von $x$ und~$
+                                         y$ sowie Vorzeichenwechsel
+Not a real error.
+
+! Preview: Snippet 13 ended.(282168+127431x344824).
+<-><->
+      
+l.66 sich durch Vertauschen von $x$ und~$y$
+                                            sowie Vorzeichenwechsel
+Not a real error.
+
+[13]
+! Preview: Snippet 14 started.
+<-><->
+      
+l.67 erzeugen.  Im ersten Oktanten gilt $
+                                         x \geq y \geq 0$. Zum Zeichnen
+Not a real error.
+
+! Preview: Snippet 14 ended.(422343+127431x2794673).
+<-><->
+      
+l.67 ... Im ersten Oktanten gilt $x \geq y \geq 0$
+                                                  . Zum Zeichnen
+Not a real error.
+
+[14]
+Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 68 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 15 started.
+<-><->
+      
+l.68 einer Linie gen�gt es also, $
+                                    x$ durchlaufen zu lassen und f�r $y$ die
+Not a real error.
+
+! Preview: Snippet 15 ended.(282168+0x374556).
+<-><->
+      
+l.68 einer Linie gen�gt es also, $x$
+                                       durchlaufen zu lassen und f�r $y$ die
+Not a real error.
+
+[15]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 16 started.
+<-><->
+      
+l.68 ...lso, $x$ durchlaufen zu lassen und f�r $
+                                                  y$ die
+Not a real error.
+
+! Preview: Snippet 16 ended.(282168+127431x344824).
+<-><->
+      
+l.68 ...o, $x$ durchlaufen zu lassen und f�r $y$
+                                                   die
+Not a real error.
+
+[16]
+Invalid UTF-8 byte or sequence at line 69 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 17 started.
+<-><->
+      
+l.71 Die Gleichung einer Geraden durch $
+                                        \Delta x \choose \Delta y$ lautet:
+Not a real error.
+
+! Preview: Snippet 17 ended.(604284+315196x1328475).
+<-><->
+      
+l.71 ... Geraden durch $\Delta x \choose \Delta y$
+                                                   lautet:
+Not a real error.
+
+[17]
+! Preview: Snippet 18 started.
+<-><->
+      
+l.72 \begin{equation}
+                     
+Not a real error.
+
+! Preview: Snippet 18 ended.(1340729+232964x15661007).
+<-><->
+      
+l.75 \end{equation}
+                   
+Not a real error.
+
+[18
+
+]
+! Preview: Snippet 19 started.
+<-><->
+      
+l.77 Nun stellen wir $
+                      y$ als Summe eines ganzzahligen Wertes $e$ und eines
+Not a real error.
+
+! Preview: Snippet 19 ended.(282168+127431x344824).
+<-><->
+      
+l.77 Nun stellen wir $y$
+                         als Summe eines ganzzahligen Wertes $e$ und eines
+Not a real error.
+
+[19]
+! Preview: Snippet 20 started.
+<-><->
+      
+l.77 ... $y$ als Summe eines ganzzahligen Wertes $
+                                                  e$ und eines
+Not a real error.
+
+! Preview: Snippet 20 ended.(282168+0x305153).
+<-><->
+      
+l.77 ...y$ als Summe eines ganzzahligen Wertes $e$
+                                                   und eines
+Not a real error.
+
+[20]
+Invalid UTF-8 byte or sequence at line 78 replaced by U+FFFD.
+
+! Preview: Snippet 21 started.
+<-><->
+      
+l.78 gebrochenen Wertes $
+                         f$ dar, f�r den gilt: $-0.5 \leq f < 0.5$.  Somit
+Not a real error.
+
+! Preview: Snippet 21 ended.(455111+127431x391398).
+<-><->
+      
+l.78 gebrochenen Wertes $f$
+                            dar, f�r den gilt: $-0.5 \leq f < 0.5$.  Somit
+Not a real error.
+
+[21]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 22 started.
+<-><->
+      
+l.78 gebrochenen Wertes $f$ dar, f�r den gilt: $
+                                                  -0.5 \leq f < 0.5$.  Somit
+Not a real error.
+
+! Preview: Snippet 22 ended.(455111+127431x4323550).
+<-><->
+      
+l.78 ...$ dar, f�r den gilt: $-0.5 \leq f < 0.5$
+                                                  .  Somit
+Not a real error.
+
+[22]
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 79 replaced by U+FFFD.
+
+! Preview: Snippet 23 started.
+<-><->
+      
+l.79 stellt dann $
+                  e$ den gew�nschten, auf die n�chste ganze Zahl gerundeten
+
+Not a real error.
+
+! Preview: Snippet 23 ended.(282168+0x305153).
+<-><->
+      
+l.79 stellt dann $e$
+                     den gew�nschten, auf die n�chste ganze Zahl gerundeten
+
+Not a real error.
+
+[23]
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 24 started.
+<-><->
+      
+l.80 $
+      y$-Wert dar. Jetzt formen wir (\ref{lgi}) um:
+Not a real error.
+
+! Preview: Snippet 24 ended.(282168+127431x344824).
+<-><->
+      
+l.80 $y$
+        -Wert dar. Jetzt formen wir (\ref{lgi}) um:
+Not a real error.
+
+[24]
+
+LaTeX Warning: Reference `lgi' on page 2 undefined on input line 80.
+
+! Preview: Snippet 25 started.
+<-><->
+      
+l.81 \begin{eqnarray}
+                     
+Not a real error.
+
+! Preview: Snippet 25 ended.(4020438+232964x15939467).
+<-><->
+      
+l.86 \end{eqnarray}
+                   
+Not a real error.
+
+[25
+
+]
+Invalid UTF-8 byte or sequence at line 88 replaced by U+FFFD.
+
+
+LaTeX Warning: Reference `lgii' on page 2 undefined on input line 88.
+
+! Preview: Snippet 26 started.
+<-><->
+      
+l.88 ...in (\ref{lgii}) bezeichnen wir jetzt mit $
+                                                  d$.  F�r
+Not a real error.
+
+! Preview: Snippet 26 ended.(455111+0x341106).
+<-><->
+      
+l.88 ... (\ref{lgii}) bezeichnen wir jetzt mit $d$
+                                                  .  F�r
+Not a real error.
+
+[26]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 27 started.
+<-><->
+      
+l.89 positive gerade Werte von $
+                                \Delta x$ ist offensichtlich $d < 0$ eine
+Not a real error.
+
+! Preview: Snippet 27 ended.(447828+0x920691).
+<-><->
+      
+l.89 positive gerade Werte von $\Delta x$
+                                          ist offensichtlich $d < 0$ eine
+Not a real error.
+
+[27]
+! Preview: Snippet 28 started.
+<-><->
+      
+l.89 ... Werte von $\Delta x$ ist offensichtlich $
+                                                  d < 0$ eine
+Not a real error.
+
+! Preview: Snippet 28 ended.(455111+25623x1542593).
+<-><->
+      
+l.89 ... von $\Delta x$ ist offensichtlich $d < 0$
+                                                   eine
+Not a real error.
+
+[28]
+! Preview: Snippet 29 started.
+<-><->
+      
+l.90 zu~$
+         f < 0.5$ equivalente Bedingung.
+Not a real error.
+
+! Preview: Snippet 29 ended.(455111+127431x2102611).
+<-><->
+      
+l.90 zu~$f < 0.5$
+                  equivalente Bedingung.
+Not a real error.
+
+[29]
+Invalid UTF-8 byte or sequence at line 92 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 30 started.
+<-><->
+      
+l.92 F�r ungerade Werte von~$
+                               \Delta x$ ist $f < 0.5$ equivalent zu
+Not a real error.
+
+! Preview: Snippet 30 ended.(447828+0x920691).
+<-><->
+      
+l.92 F�r ungerade Werte von~$\Delta x$
+                                         ist $f < 0.5$ equivalent zu
+Not a real error.
+
+[30]
+! Preview: Snippet 31 started.
+<-><->
+      
+l.92 F�r ungerade Werte von~$\Delta x$ ist $
+                                              f < 0.5$ equivalent zu
+Not a real error.
+
+! Preview: Snippet 31 ended.(455111+127431x2102611).
+<-><->
+      
+l.92 ...ngerade Werte von~$\Delta x$ ist $f < 0.5$
+                                                   equivalent zu
+Not a real error.
+
+[31]
+! Preview: Snippet 32 started.
+<-><->
+      
+l.93 $
+      d + 0.5 < 0$.
+Not a real error.
+
+! Preview: Snippet 32 ended.(455111+54613x3180990).
+<-><->
+      
+l.93 $d + 0.5 < 0$
+                  .
+Not a real error.
+
+[32]
+! Preview: Snippet 33 started.
+<-><->
+      
+l.94 Da $
+         d$ stets eine ganze Zahl ist, ist dies wieder zu $d < 0$
+Not a real error.
+
+! Preview: Snippet 33 ended.(455111+0x341106).
+<-><->
+      
+l.94 Da $d$
+            stets eine ganze Zahl ist, ist dies wieder zu $d < 0$
+Not a real error.
+
+[33]
+! Preview: Snippet 34 started.
+<-><->
+      
+l.94 ... eine ganze Zahl ist, ist dies wieder zu $
+                                                  d < 0$
+Not a real error.
+
+! Preview: Snippet 34 ended.(455111+25623x1542593).
+<-><->
+      
+l.94 ...ganze Zahl ist, ist dies wieder zu $d < 0$
+                                                  
+Not a real error.
+
+[34]
+! Preview: Snippet 35 started.
+<-><->
+      
+l.102 Wird nun $
+                \ifPreview\special{ps: junk}\fi f \geq 0.5$, wie sich durch
+Not a real error.
+
+! Preview: Snippet 35 ended.(455111+127431x2102611).
+<-><->
+      
+l.102 ...fPreview\special{ps: junk}\fi f \geq 0.5$
+                                                  , wie sich durch
+Not a real error.
+
+[35]
+Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 103 replaced by U+FFFD.
+
+! Preview: Snippet 36 started.
+<-><->
+      
+l.103 den Vergleich $
+                     d \stackrel{?}{<} 0$ feststellen l��t, so mu� man
+Not a real error.
+
+! Preview: Snippet 36 ended.(868487+25623x1542593).
+<-><->
+      
+l.103 den Vergleich $d \stackrel{?}{<} 0$
+                                          feststellen l��t, so mu� man
+Not a real error.
+
+[36]
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
+
+! Preview: Snippet 37 started.
+<-><->
+      
+l.104 korrigieren, indem man $
+                              f$ um~1 erniedrigt und $e$ um~$1$ erh�ht.
+Not a real error.
+
+! Preview: Snippet 37 ended.(455111+127431x391398).
+<-><->
+      
+l.104 korrigieren, indem man $f$
+                                 um~1 erniedrigt und $e$ um~$1$ erh�ht.
+Not a real error.
+
+[37]
+! Preview: Snippet 38 started.
+<-><->
+      
+l.104 ...eren, indem man $f$ um~1 erniedrigt und $
+                                                  e$ um~$1$ erh�ht.
+Not a real error.
+
+! Preview: Snippet 38 ended.(282168+0x305153).
+<-><->
+      
+l.104 ...en, indem man $f$ um~1 erniedrigt und $e$
+                                                   um~$1$ erh�ht.
+Not a real error.
+
+[38]
+! Preview: Snippet 39 started.
+<-><->
+      
+l.104 ...ndem man $f$ um~1 erniedrigt und $e$ um~$
+                                                  1$ erh�ht.
+Not a real error.
+
+! Preview: Snippet 39 ended.(422343+0x327681).
+<-><->
+      
+l.104 ...em man $f$ um~1 erniedrigt und $e$ um~$1$
+                                                   erh�ht.
+Not a real error.
+
+[39]
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 109 replaced by U+FFFD.
+
+! Preview: Snippet 40 started.
+<-><->
+      
+l.109 $
+       \ifPreview\special{ps: quit}\fi d$ mu� dann auch entsprechend
+Not a real error.
+
+! Preview: Snippet 40 ended.(455111+0x341106).
+<-><->
+      
+l.109 $\ifPreview\special{ps: quit}\fi d$
+                                          mu� dann auch entsprechend
+Not a real error.
+
+[40]
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 110 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 112 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+Invalid UTF-8 byte or sequence at line 113 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 41 started.
+<-><->
+      
+l.113 Einfl�sse von $
+                       x$ und $e$ auf $d$ der in Tabelle~\ref{linalg}
+Not a real error.
+
+! Preview: Snippet 41 ended.(282168+0x374556).
+<-><->
+      
+l.113 Einfl�sse von $x$
+                          und $e$ auf $d$ der in Tabelle~\ref{linalg}
+Not a real error.
+
+[41]
+! Preview: Snippet 42 started.
+<-><->
+      
+l.113 Einfl�sse von $x$ und $
+                               e$ auf $d$ der in Tabelle~\ref{linalg}
+Not a real error.
+
+! Preview: Snippet 42 ended.(282168+0x305153).
+<-><->
+      
+l.113 Einfl�sse von $x$ und $e$
+                                  auf $d$ der in Tabelle~\ref{linalg}
+Not a real error.
+
+[42]
+! Preview: Snippet 43 started.
+<-><->
+      
+l.113 Einfl�sse von $x$ und $e$ auf $
+                                       d$ der in Tabelle~\ref{linalg}
+Not a real error.
+
+! Preview: Snippet 43 ended.(455111+0x341106).
+<-><->
+      
+l.113 Einfl�sse von $x$ und $e$ auf $d$
+                                          der in Tabelle~\ref{linalg}
+Not a real error.
+
+[43]
+
+LaTeX Warning: Reference `linalg' on page 2 undefined on input line 113.
+
+Invalid UTF-8 byte or sequence at line 115 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+LaTeX Warning: Reference `linc' on page 2 undefined on input line 115.
+
+
+LaTeX Warning: Reference `linpict' on page 2 undefined on input line 117.
+
+! Preview: Snippet 44 started.
+<-><->
+      
+l.118 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 44 ended.(4765618+3793642x16496387).
+<-><->
+      
+l.136 \end{table}
+                 
+Not a real error.
+
+[44
+
+
+]
+! Preview: Snippet 45 started.
+<-><->
+      
+l.137 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 45 ended.(15886676+15042100x15939467).
+<-><->
+      
+l.186 \end{table}
+                 
+Not a real error.
+
+[45
+
+
+]
+! Preview: Snippet 46 started.
+<-><->
+      
+l.187 \begin{figure}
+                    
+Not a real error.
+
+\x=\count93
+\y=\count94
+\d=\count95
+\dx=\count96
+\dy=\count97
+! Preview: Snippet 46 ended.(14621882+232964x16774847).
+<-><->
+      
+l.218 \end{figure}
+                  
+Not a real error.
+
+[46
+
+
+]
+! Preview: Snippet 47 started.
+<-><->
+      
+l.220 \section
+              {Der Kreis}
+Not a real error.
+
+! Preview: Snippet 47 ended.(651269+0x14483456).
+<-><->
+      
+l.220 \section{Der Kreis}
+                         
+Not a real error.
+
+[47
+
+]
+! Preview: Snippet 48 started.
+<-><->
+      
+l.222 ($
+        y \geq x \geq 0$). Hier gelten die oben angegebenen Beziehungen.
+Not a real error.
+
+! Preview: Snippet 48 ended.(422343+127431x2794673).
+<-><->
+      
+l.222 ($y \geq x \geq 0$
+                        ). Hier gelten die oben angegebenen Beziehungen.
+Not a real error.
+
+[48]
+! Preview: Snippet 49 started.
+<-><->
+      
+l.227 \begin{equation}
+                      
+Not a real error.
+
+! Preview: Snippet 49 ended.(859893+0x14483456).
+<-><->
+      
+l.229 \end{equation}
+                    
+Not a real error.
+
+[49]
+Invalid UTF-8 byte or sequence at line 231 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 231 replaced by U+FFFD.
+
+! Preview: Snippet 50 started.
+<-><->
+      
+l.231 Der Wert $
+                y$ l��t sich darstellen als Summe einer ganzen Zahl $e$ und
+
+Not a real error.
+
+! Preview: Snippet 50 ended.(282168+127431x344824).
+<-><->
+      
+l.231 Der Wert $y$
+                   l��t sich darstellen als Summe einer ganzen Zahl $e$ und
+
+Not a real error.
+
+[50]
+Missing character: There is no � in font ecrm1000!
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 51 started.
+<-><->
+      
+l.231 ... darstellen als Summe einer ganzen Zahl $
+                                                  e$ und
+Not a real error.
+
+! Preview: Snippet 51 ended.(282168+0x305153).
+<-><->
+      
+l.231 ...arstellen als Summe einer ganzen Zahl $e$
+                                                   und
+Not a real error.
+
+[51]
+! Preview: Snippet 52 started.
+<-><->
+      
+l.232 einem Wert $
+                  f$ mit $-0.5 \leq f < 0.5$. Der Wertebereich von $f$ ist
+Not a real error.
+
+! Preview: Snippet 52 ended.(455111+127431x391398).
+<-><->
+      
+l.232 einem Wert $f$
+                     mit $-0.5 \leq f < 0.5$. Der Wertebereich von $f$ ist
+Not a real error.
+
+[52]
+! Preview: Snippet 53 started.
+<-><->
+      
+l.232 einem Wert $f$ mit $
+                          -0.5 \leq f < 0.5$. Der Wertebereich von $f$ ist
+Not a real error.
+
+! Preview: Snippet 53 ended.(455111+127431x4323550).
+<-><->
+      
+l.232 einem Wert $f$ mit $-0.5 \leq f < 0.5$
+                                            . Der Wertebereich von $f$ ist
+Not a real error.
+
+[53]
+! Preview: Snippet 54 started.
+<-><->
+      
+l.232 ...0.5 \leq f < 0.5$. Der Wertebereich von $
+                                                  f$ ist
+Not a real error.
+
+! Preview: Snippet 54 ended.(455111+127431x391398).
+<-><->
+      
+l.232 ...5 \leq f < 0.5$. Der Wertebereich von $f$
+                                                   ist
+Not a real error.
+
+[54]
+Invalid UTF-8 byte or sequence at line 233 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 55 started.
+<-><->
+      
+l.233 so gew�hlt worden, damit $
+                                  e$ einen auf ganze Zahlen gerundeten Wert
+Not a real error.
+
+! Preview: Snippet 55 ended.(282168+0x305153).
+<-><->
+      
+l.233 so gew�hlt worden, damit $e$
+                                     einen auf ganze Zahlen gerundeten Wert
+Not a real error.
+
+[55]
+Invalid UTF-8 byte or sequence at line 234 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 56 started.
+<-><->
+      
+l.234 f�r $
+             y$ darstellt.
+Not a real error.
+
+! Preview: Snippet 56 ended.(282168+127431x344824).
+<-><->
+      
+l.234 f�r $y$
+                darstellt.
+Not a real error.
+
+[56]
+! Preview: Snippet 57 started.
+<-><->
+      
+l.237 \begin{eqnarray}
+                      
+Not a real error.
+
+! Preview: Snippet 57 ended.(1842933+232964x15661007).
+<-><->
+      
+l.240 \end{eqnarray}
+                    
+Not a real error.
+
+[57
+
+]
+Invalid UTF-8 byte or sequence at line 242 replaced by U+FFFD.
+
+
+LaTeX Warning: Reference `ggg' on page 2 undefined on input line 242.
+
+Missing character: There is no � in font ecrm1000!
+! Preview: Snippet 58 started.
+<-><->
+      
+l.242 Die Gleichung (\ref{ggg}) hat f�r $
+                                           x+1$ folgende Form:
+Not a real error.
+
+! Preview: Snippet 58 ended.(422343+54613x1503227).
+<-><->
+      
+l.242 Die Gleichung (\ref{ggg}) hat f�r $x+1$
+                                                folgende Form:
+Not a real error.
+
+[58]
+! Preview: Snippet 59 started.
+<-><->
+      
+l.243 \begin{eqnarray}
+                      
+Not a real error.
+
+! Preview: Snippet 59 ended.(730033+116484x15661007).
+<-><->
+      
+l.245 \end{eqnarray}
+                    
+Not a real error.
+
+[59
+
+]
+
+LaTeX Warning: Reference `ggg' on page 2 undefined on input line 247.
+
+
+LaTeX Warning: Reference `hhh' on page 2 undefined on input line 247.
+
+! Preview: Snippet 60 started.
+<-><->
+      
+l.249 \begin{eqnarray*}
+                       
+Not a real error.
+
+! Preview: Snippet 60 ended.(3602007+0x14483456).
+<-><->
+      
+l.254 \end{eqnarray*}
+                     
+Not a real error.
+
+[60]
+! Preview: Snippet 61 started.
+<-><->
+      
+l.256 Jetzt wird $
+                  2ef + f^2$ mit $m$ getauft. Also:
+Not a real error.
+
+! Preview: Snippet 61 ended.(533465+127431x2510623).
+<-><->
+      
+l.256 Jetzt wird $2ef + f^2$
+                             mit $m$ getauft. Also:
+Not a real error.
+
+[61]
+! Preview: Snippet 62 started.
+<-><->
+      
+l.256 Jetzt wird $2ef + f^2$ mit $
+                                  m$ getauft. Also:
+Not a real error.
+
+! Preview: Snippet 62 ended.(282168+0x575415).
+<-><->
+      
+l.256 Jetzt wird $2ef + f^2$ mit $m$
+                                     getauft. Also:
+Not a real error.
+
+[62]
+! Preview: Snippet 63 started.
+<-><->
+      
+l.257 \begin{eqnarray*}
+                       
+Not a real error.
+
+! Preview: Snippet 63 ended.(3529189+0x14483456).
+<-><->
+      
+l.262 \end{eqnarray*}
+                     
+Not a real error.
+
+[63]
+Invalid UTF-8 byte or sequence at line 263 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 263 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 64 started.
+<-><->
+      
+l.263 Wie gro� ist jetzt $
+                            m$? F�r $x=0$ ist es sicher $0$. Solange $e$
+Not a real error.
+
+! Preview: Snippet 64 ended.(282168+0x575415).
+<-><->
+      
+l.263 Wie gro� ist jetzt $m$
+                              ? F�r $x=0$ ist es sicher $0$. Solange $e$
+Not a real error.
+
+[64]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 65 started.
+<-><->
+      
+l.263 Wie gro� ist jetzt $m$? F�r $
+                                       x=0$ ist es sicher $0$. Solange $e$
+Not a real error.
+
+! Preview: Snippet 65 ended.(422343+0x1576043).
+<-><->
+      
+l.263 Wie gro� ist jetzt $m$? F�r $x=0$
+                                            ist es sicher $0$. Solange $e$
+Not a real error.
+
+[65]
+! Preview: Snippet 66 started.
+<-><->
+      
+l.263 ...st jetzt $m$? F�r $x=0$ ist es sicher $
+                                                  0$. Solange $e$
+Not a real error.
+
+! Preview: Snippet 66 ended.(422343+0x327681).
+<-><->
+      
+l.263 ... jetzt $m$? F�r $x=0$ ist es sicher $0$
+                                                  . Solange $e$
+Not a real error.
+
+[66]
+! Preview: Snippet 67 started.
+<-><->
+      
+l.263 ... F�r $x=0$ ist es sicher $0$. Solange $
+                                                  e$
+Not a real error.
+
+! Preview: Snippet 67 ended.(282168+0x305153).
+<-><->
+      
+l.263 ...�r $x=0$ ist es sicher $0$. Solange $e$
+                                                  
+Not a real error.
+
+[67]
+Invalid UTF-8 byte or sequence at line 264 replaced by U+FFFD.
+
+! Preview: Snippet 68 started.
+<-><->
+      
+l.264 konstant bleibt, schrumpft $
+                                  f$ stetig. F�llt $f$ unter $-0.5$, so
+Not a real error.
+
+! Preview: Snippet 68 ended.(455111+127431x391398).
+<-><->
+      
+l.264 konstant bleibt, schrumpft $f$
+                                     stetig. F�llt $f$ unter $-0.5$, so
+Not a real error.
+
+[68]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 69 started.
+<-><->
+      
+l.264 ...t bleibt, schrumpft $f$ stetig. F�llt $
+                                                  f$ unter $-0.5$, so
+Not a real error.
+
+! Preview: Snippet 69 ended.(455111+127431x391398).
+<-><->
+      
+l.264 ...bleibt, schrumpft $f$ stetig. F�llt $f$
+                                                   unter $-0.5$, so
+Not a real error.
+
+[69]
+! Preview: Snippet 70 started.
+<-><->
+      
+l.264 ...schrumpft $f$ stetig. F�llt $f$ unter $
+                                                  -0.5$, so
+Not a real error.
+
+! Preview: Snippet 70 ended.(422343+54613x1347133).
+<-><->
+      
+l.264 ...mpft $f$ stetig. F�llt $f$ unter $-0.5$
+                                                  , so
+Not a real error.
+
+[70]
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 265 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 71 started.
+<-><->
+      
+l.265 f�llt $
+               m$ (unter Vernachl�ssigung von $f^2$) unter $-e$.  Dies wird
+Not a real error.
+
+! Preview: Snippet 71 ended.(282168+0x575415).
+<-><->
+      
+l.265 f�llt $m$
+                  (unter Vernachl�ssigung von $f^2$) unter $-e$.  Dies wird
+Not a real error.
+
+[71]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 72 started.
+<-><->
+      
+l.265 f�llt $m$ (unter Vernachl�ssigung von $
+                                                 f^2$) unter $-e$.  Dies wird
+Not a real error.
+
+! Preview: Snippet 72 ended.(533465+127431x685401).
+<-><->
+      
+l.265 ...t $m$ (unter Vernachl�ssigung von $f^2$
+                                                  ) unter $-e$.  Dies wird
+Not a real error.
+
+[72]
+! Preview: Snippet 73 started.
+<-><->
+      
+l.265 ...ter Vernachl�ssigung von $f^2$) unter $
+                                                  -e$.  Dies wird
+Not a real error.
+
+! Preview: Snippet 73 ended.(382293+54613x814879).
+<-><->
+      
+l.265 ... Vernachl�ssigung von $f^2$) unter $-e$
+                                                  .  Dies wird
+Not a real error.
+
+[73]
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 74 started.
+<-><->
+      
+l.266 ...als Kriterium f�r einen Unterlauf von $
+                                                  f$ verwendet.  Tritt
+Not a real error.
+
+! Preview: Snippet 74 ended.(455111+127431x391398).
+<-><->
+      
+l.266 ...s Kriterium f�r einen Unterlauf von $f$
+                                                   verwendet.  Tritt
+Not a real error.
+
+[74]
+Invalid UTF-8 byte or sequence at line 267 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 267 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 75 started.
+<-><->
+      
+l.267 dieser auf, so mu� $
+                            f$ um $1$ erh�ht und $e$ um $1$ erniedrigt wer...
+
+Not a real error.
+
+! Preview: Snippet 75 ended.(455111+127431x391398).
+<-><->
+      
+l.267 dieser auf, so mu� $f$
+                               um $1$ erh�ht und $e$ um $1$ erniedrigt wer...
+
+Not a real error.
+
+[75]
+! Preview: Snippet 76 started.
+<-><->
+      
+l.267 dieser auf, so mu� $f$ um $
+                                   1$ erh�ht und $e$ um $1$ erniedrigt wer...
+
+Not a real error.
+
+! Preview: Snippet 76 ended.(422343+0x327681).
+<-><->
+      
+l.267 dieser auf, so mu� $f$ um $1$
+                                      erh�ht und $e$ um $1$ erniedrigt wer...
+
+Not a real error.
+
+[76]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 77 started.
+<-><->
+      
+l.267 ...r auf, so mu� $f$ um $1$ erh�ht und $
+                                                  e$ um $1$ erniedrigt werden.
+Not a real error.
+
+! Preview: Snippet 77 ended.(282168+0x305153).
+<-><->
+      
+l.267 ...auf, so mu� $f$ um $1$ erh�ht und $e$
+                                                   um $1$ erniedrigt werden.
+Not a real error.
+
+[77]
+! Preview: Snippet 78 started.
+<-><->
+      
+l.267 ...so mu� $f$ um $1$ erh�ht und $e$ um $
+                                                  1$ erniedrigt werden.
+Not a real error.
+
+! Preview: Snippet 78 ended.(422343+0x327681).
+<-><->
+      
+l.267 ... mu� $f$ um $1$ erh�ht und $e$ um $1$
+                                                   erniedrigt werden.
+Not a real error.
+
+[78]
+! Preview: Snippet 79 started.
+<-><->
+      
+l.269 ...ingung zu vereinfachen, setzt man jetzt $
+                                                  q$ = $m+e$.
+Not a real error.
+
+! Preview: Snippet 79 ended.(282168+127431x316074).
+<-><->
+      
+l.269 ...gung zu vereinfachen, setzt man jetzt $q$
+                                                   = $m+e$.
+Not a real error.
+
+[79]
+! Preview: Snippet 80 started.
+<-><->
+      
+l.269 ... zu vereinfachen, setzt man jetzt $q$ = $
+                                                  m+e$.
+Not a real error.
+
+! Preview: Snippet 80 ended.(382293+54613x1681558).
+<-><->
+      
+l.269 ...vereinfachen, setzt man jetzt $q$ = $m+e$
+                                                  .
+Not a real error.
+
+[80]
+
+LaTeX Warning: Reference `alg' on page 2 undefined on input line 270.
+
+
+LaTeX Warning: Reference `prog' on page 2 undefined on input line 271.
+
+! Preview: Snippet 81 started.
+<-><->
+      
+l.272 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 81 ended.(5248012+4276036x15661007).
+<-><->
+      
+l.290 \end{table}
+                 
+Not a real error.
+
+[81
+
+
+]
+! Preview: Snippet 82 started.
+<-><->
+      
+l.291 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 82 ended.(13851388+12879412x15939467).
+<-><->
+      
+l.334 \end{table}
+                 
+Not a real error.
+
+[82
+
+
+]
+! Preview: Snippet 83 started.
+<-><->
+      
+l.335 \begin{figure}
+                    
+Not a real error.
+
+\x=\count98
+\y=\count99
+\q=\count100
+! Preview: Snippet 83 ended.(14621882+116484x16217927).
+<-><->
+      
+l.363 \end{figure}
+                  
+Not a real error.
+
+[83
+
+
+]
+! Preview: Snippet 84 started.
+<-><->
+      
+l.365 \section
+              {Einfache Hyperbeln}
+Not a real error.
+
+! Preview: Snippet 84 ended.(651269+183455x14483456).
+<-><->
+      
+l.365 \section{Einfache Hyperbeln}
+                                  
+Not a real error.
+
+[84
+
+]
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+
+! Preview: Snippet 85 started.
+<-><->
+      
+l.367 $
+       y = r^2\!/x$ gen�gen, und zwar im Bereich~$x \geq r$.
+Not a real error.
+
+! Preview: Snippet 85 ended.(533465+163840x2419522).
+<-><->
+      
+l.367 $y = r^2\!/x$
+                    gen�gen, und zwar im Bereich~$x \geq r$.
+Not a real error.
+
+[85]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 86 started.
+<-><->
+      
+l.367 ...r^2\!/x$ gen�gen, und zwar im Bereich~$
+                                                  x \geq r$.
+Not a real error.
+
+! Preview: Snippet 86 ended.(416790+89110x1562238).
+<-><->
+      
+l.367 ...gen�gen, und zwar im Bereich~$x \geq r$
+                                                  .
+Not a real error.
+
+[86]
+! Preview: Snippet 87 started.
+<-><->
+      
+l.369 Mit dem Ansatz $
+                      y = e + f$ ergibt sich:
+Not a real error.
+
+! Preview: Snippet 87 ended.(455111+127431x2716171).
+<-><->
+      
+l.369 Mit dem Ansatz $y = e + f$
+                                 ergibt sich:
+Not a real error.
+
+[87]
+! Preview: Snippet 88 started.
+<-><->
+      
+l.370 \begin{eqnarray}
+                      
+Not a real error.
+
+! Preview: Snippet 88 ended.(2696113+232964x15939467).
+<-><->
+      
+l.374 \end{eqnarray}
+                    
+Not a real error.
+
+[88
+
+]
+Invalid UTF-8 byte or sequence at line 376 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 89 started.
+<-><->
+      
+l.376 F�r $
+             x' = x+1$ hat nun (\ref{phyp}) die Form
+Not a real error.
+
+! Preview: Snippet 89 ended.(492688+54613x2935454).
+<-><->
+      
+l.376 F�r $x' = x+1$
+                       hat nun (\ref{phyp}) die Form
+Not a real error.
+
+[89]
+
+LaTeX Warning: Reference `phyp' on page 2 undefined on input line 376.
+
+! Preview: Snippet 90 started.
+<-><->
+      
+l.377 \begin{eqnarray*}
+                       
+Not a real error.
+
+! Preview: Snippet 90 ended.(3602007+0x14483456).
+<-><->
+      
+l.382 \end{eqnarray*}
+                     
+Not a real error.
+
+[90]
+! Preview: Snippet 91 started.
+<-><->
+      
+l.383 Setzt man jetzt $
+                       d = (2f + 1)x$, so ist $f < -0.5$ mit~$d < 0$
+Not a real error.
+
+! Preview: Snippet 91 ended.(491520+163840x3946944).
+<-><->
+      
+l.383 Setzt man jetzt $d = (2f + 1)x$
+                                     , so ist $f < -0.5$ mit~$d < 0$
+Not a real error.
+
+[91]
+! Preview: Snippet 92 started.
+<-><->
+      
+l.383 Setzt man jetzt $d = (2f + 1)x$, so ist $
+                                               f < -0.5$ mit~$d < 0$
+Not a real error.
+
+! Preview: Snippet 92 ended.(455111+127431x2612337).
+<-><->
+      
+l.383 ... jetzt $d = (2f + 1)x$, so ist $f < -0.5$
+                                                   mit~$d < 0$
+Not a real error.
+
+[92]
+! Preview: Snippet 93 started.
+<-><->
+      
+l.383 ... $d = (2f + 1)x$, so ist $f < -0.5$ mit~$
+                                                  d < 0$
+Not a real error.
+
+! Preview: Snippet 93 ended.(455111+25623x1542593).
+<-><->
+      
+l.383 ...(2f + 1)x$, so ist $f < -0.5$ mit~$d < 0$
+                                                  
+Not a real error.
+
+[93]
+! Preview: Snippet 94 started.
+<-><->
+      
+l.385 $
+       e' = e$,
+Not a real error.
+
+! Preview: Snippet 94 ended.(492688+0x1667977).
+<-><->
+      
+l.385 $e' = e$
+              ,
+Not a real error.
+
+[94]
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 386 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 95 started.
+<-><->
+      
+l.386 dann mu� in bekannter Weise $
+                                     f$ um~$1$ erh�ht und $e$ um~$1$
+Not a real error.
+
+! Preview: Snippet 95 ended.(455111+127431x391398).
+<-><->
+      
+l.386 dann mu� in bekannter Weise $f$
+                                        um~$1$ erh�ht und $e$ um~$1$
+Not a real error.
+
+[95]
+! Preview: Snippet 96 started.
+<-><->
+      
+l.386 dann mu� in bekannter Weise $f$ um~$
+                                            1$ erh�ht und $e$ um~$1$
+Not a real error.
+
+! Preview: Snippet 96 ended.(422343+0x327681).
+<-><->
+      
+l.386 dann mu� in bekannter Weise $f$ um~$1$
+                                               erh�ht und $e$ um~$1$
+Not a real error.
+
+[96]
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 97 started.
+<-><->
+      
+l.386 ...bekannter Weise $f$ um~$1$ erh�ht und $
+                                                  e$ um~$1$
+Not a real error.
+
+! Preview: Snippet 97 ended.(282168+0x305153).
+<-><->
+      
+l.386 ...kannter Weise $f$ um~$1$ erh�ht und $e$
+                                                   um~$1$
+Not a real error.
+
+[97]
+! Preview: Snippet 98 started.
+<-><->
+      
+l.386 ...er Weise $f$ um~$1$ erh�ht und $e$ um~$
+                                                  1$
+Not a real error.
+
+! Preview: Snippet 98 ended.(422343+0x327681).
+<-><->
+      
+l.386 ... Weise $f$ um~$1$ erh�ht und $e$ um~$1$
+                                                  
+Not a real error.
+
+[98]
+Invalid UTF-8 byte or sequence at line 390 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+
+! Preview: Snippet 99 started.
+<-><->
+      
+l.390 F�r $
+             d'$ ergeben sich dann die folgenden Werte:
+Not a real error.
+
+! Preview: Snippet 99 ended.(492688+0x524971).
+<-><->
+      
+l.390 F�r $d'$
+                 ergeben sich dann die folgenden Werte:
+Not a real error.
+
+[99]
+! Preview: Snippet 100 started.
+<-><->
+      
+l.391 \begin{eqnarray*}
+                       
+Not a real error.
+
+! Preview: Snippet 100 ended.(3529189+0x14483456).
+<-><->
+      
+l.396 \end{eqnarray*}
+                     
+Not a real error.
+
+[100]
+
+LaTeX Warning: Reference `halg' on page 3 undefined on input line 397.
+
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Missing character: There is no � in font ecrm1000!
+! Preview: Snippet 101 started.
+<-><->
+      
+l.399 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 101 ended.(5231703+4259727x15939467).
+<-><->
+      
+l.417 \end{table}
+                 
+Not a real error.
+
+[101
+
+
+]
+! Preview: Snippet 102 started.
+<-><->
+      
+l.418 \begin{table}
+                   
+Not a real error.
+
+! Preview: Snippet 102 ended.(9526012+8554036x14483456).
+<-><->
+      
+l.449 \end{table}
+                 
+Not a real error.
+
+[102
+
+]
+! Preview: Snippet 103 started.
+<-><->
+      
+l.450 \begin{figure}
+                    
+Not a real error.
+
+\x=\count101
+\y=\count102
+\q=\count103
+\r=\count104
+! Preview: Snippet 103 ended.(14621882+116484x16496387).
+<-><->
+      
+l.481 \end{figure}
+                  
+Not a real error.
+
+[103
+
+
+]
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 78 strings out of 492810
+ 802 string characters out of 6134478
+ 89476 words of memory out of 5000000
+ 4516 multiletter control sequences out of 15000+600000
+ 15606 words of font info for 37 fonts, out of 8000000 for 9000
+ 1144 hyphenation exceptions out of 8191
+ 22i,14n,22p,117b,394s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on _region_.pdf (103 pages).
