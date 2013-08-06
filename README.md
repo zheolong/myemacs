@@ -69,3 +69,5 @@ cd  ~/.emacs.d/auctex-11.87 && make && make install
 cd ~/.emacs.d/mylisps/cedet-1.1 && make
 
 cd ~/.emacs.d/predictive && make
+
+cd ~/.emacs.d/mylisps/mew-6.5 && ./configure && make && make install
